@@ -39,5 +39,9 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "@ui5/webcomponents-fiori": "^1.10.3",
+    "@ui5/webcomponents-react": "^1.8.1"
   }
 }
